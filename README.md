@@ -4,7 +4,7 @@ git@github.com:itwithdk69/build-it-up.git
 
 [ warning ! any information that may be outside this area will be sanctioned ]
 
-an web for gifted people and students, create a web for showing every things about how can be our future planet, with technology and interesting features in progress. 
+an web about technology who can be developed for our planet, create a web for showing every things about how can be our future planet, with technology and interesting features in progress. 
 
 part 1 : [imprtant] - 40min
 create a simple web where we can put every single parts of a huge secret... 
