@@ -16,9 +16,15 @@ part 2 : ~ [elementary time] - 10min
 find and search people, students who are able to join this special subject. people who want to know about them and they talents. 
 find a way to make know how special they are. Everyone can. regrouped you is a chance and connect our soul. 
 
-+ be concentrate. 
-+ 
-+
+Here we go now... I m back 
+
+I create this site/Web just for it or you can come on discord for talking about it. There is the link : https://discord.gg/29jHVuUf
+Connect you and join friends!
+
+See you..
+
+
+
 +
 +
 
