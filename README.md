@@ -10,7 +10,7 @@ open the world...best for our planet, create a web for showing every things abou
 
 part 1 : [important] - 40min
 create a simple web where we can find any informations about new planets; stars are about to be found again and again.
-Can we fond help between other stars and principal planets around us; Solar system? why calling him like that. Understanding why.  
+Can we found help between other stars and principal planets around us; Solar system? why calling him like that. Understanding why.  
 
 
 I create this site/Web just for it or you can come on discord for talking about it. There is the link : https://discord.gg/PpQU5EWM
