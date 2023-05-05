@@ -2,7 +2,7 @@
 for you and us
 git@github.com:itwithdk69/build-it-up.git
 
-hello friend...
+hello...
 
 [ warning ! any information that may be outside this area will be sanctioned ]
 
