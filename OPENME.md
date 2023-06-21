@@ -12,7 +12,7 @@ created on Sun Oct 2 17:22:44 2022
  
  Create an website that would allow us to discover more about the universe and what is aroud that would open new vision of reality. 
  
- i was thinking about an web or an diaporama about it. Planets/stars. Questions would be allow to be asked for sure. 
+ Questions would be allow to be asked for sure. 
  
 
 
